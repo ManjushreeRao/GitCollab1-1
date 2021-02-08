@@ -25,3 +25,8 @@
 ### [Remote Add show remove](https://github.com/gn32/GitCollab1/blob/main/Documents/Remote%20Add%20show%20remove.docx)
 
 ### [Commit](https://github.com/gn32/GitCollab1/blob/main/Documents/Commit.docx)
+
+### [Status](https://github.com/gn32/GitCollab1/blob/main/Documents/Status.docx)
+
+
+
