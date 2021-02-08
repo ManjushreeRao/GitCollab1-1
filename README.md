@@ -28,7 +28,7 @@
 ### 3.[Usage Of Automated Testing](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20Of%20Automated%20Testing.docx)
 ### 4.[Usage of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20Of%20Continuous%20integration.docx)
 ## How to Add Collaborator to your GitHub Repo
-### [Adding a Collaborator](https://github.com/gn32/GitCollab1/blob/branch_gn_3/Resolving%20Merge%20conflicts%20in%20GitHub.docx)
+### [Adding a Collaborator](https://github.com/gn32/GitCollab1/blob/main/Adding%20a%20collaborator%20to%20a%20GitHub%20Repository.docx)
 ## How is Forking different from Cloning
 ### [Forking Vs Cloning](https://github.com/gn32/GitCollab1/blob/main/Forking%20Vs%20Cloning.docx)
 ## How to Resolve Merge Conflicts in GitHub
