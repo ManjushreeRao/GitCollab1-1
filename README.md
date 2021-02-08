@@ -7,6 +7,7 @@
 ## Team Member2 :handshake: Manjushree Madhava Rao Ramachandrahosur (*Mandy*)
 ![alt text](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
 ## Index ##
+## Intoduction to [GIT Flow](https://github.com/gn32/GitCollab1/blob/main/Documents/Git%20Flow.docx)
 
 ## Git Definitions:
 
