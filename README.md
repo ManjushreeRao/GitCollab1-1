@@ -41,3 +41,5 @@
 ### [Usage of Docker](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20of%20Docker.docx)
 
 ### [Usage Of Automated Testing](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Automated%20Testing.docx)
+
+### [Usage of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Continuous%20integration.docx)
