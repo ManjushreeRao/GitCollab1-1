@@ -16,3 +16,4 @@
 
 ### [Push](https://github.com/gn32/GitCollab1/blob/main/Documents/Push.docx)
 
+### [Clone](https://github.com/gn32/GitCollab1/blob/main/Documents/Clone.docx)
