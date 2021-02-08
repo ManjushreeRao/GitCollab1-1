@@ -34,3 +34,8 @@
 
 ### [Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
 
+## Usage:
+
+### [Usage of Git](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20of%20Git.docx)
+
+
