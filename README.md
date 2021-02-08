@@ -8,7 +8,7 @@
 ![alt text](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
 ## *Index* ##
 ### Introduction to GIT Flow
-### [GitFlow](https://github.com/gn32/GitCollab1/blob/main/Documents/Git%20Flow.docx)
+### [GitFlow](https://github.com/gn32/GitCollab1/blob/main/Git%20Flow.docx)
 ### Git Definitions :
 #### 1.[Checkout](https://github.com/gn32/GitCollab1/blob/main/Documents/Checkout.docx)
 #### 2.[Repository](https://github.com/gn32/GitCollab1/blob/main/Documents/Repository.docx)
