@@ -23,10 +23,10 @@
 ### 11.[Merge](https://github.com/gn32/GitCollab1/blob/main/Documents/Merge.docx)
 ### 12. [Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
 ## Usage:
-### 1.[Usage of Git](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20of%20Git.docx)
-### 2.[Usage of Docker](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20of%20Docker.docx)
-### 3.[Usage Of Automated Testing](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Automated%20Testing.docx)
-### 4.[Usage of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Continuous%20integration.docx)
+### 1.[Usage of Git](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20of%20Git.docx)
+### 2.[Usage of Docker](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20of%20Docker.docx)
+### 3.[Usage Of Automated Testing](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20Of%20Automated%20Testing.docx)
+### 4.[Usage of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20Of%20Continuous%20integration.docx)
 ## How to Add Collaborator to your GitHub Repo
 ### [Adding a Collaborator](https://github.com/gn32/GitCollab1/blob/branch_gn_3/Resolving%20Merge%20conflicts%20in%20GitHub.docx)
 ## How is Forking different from Cloning
