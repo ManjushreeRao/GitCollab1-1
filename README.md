@@ -8,7 +8,7 @@
 ![alt text](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
 ## *Index* ##
 ### Introduction to GIT Flow
-### [GitFlow](https://github.com/gn32/GitCollab1/blob/main/Documents/Git%20Flow.docx)
+### [GitFlow](https://github.com/gn32/GitCollab1/blob/main/Git%20Flow.docx)
 ### Git Definitions :
 #### 1.[Checkout](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Checkout.docx)
 #### 2.[Repository](https://github.com/gn32/GitCollab1/blob/main/Documents/Repository.docx)
@@ -21,7 +21,7 @@
 #### 9.[Status](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Status.docx)
 #### 10.[Master Branch](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Master%20Branch.docx)
 #### 11.[Merge](https://github.com/gn32/GitCollab1/blob/main/Documents/Merge.docx)
-#### 12. [Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
+#### 12.[Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
 ### Usage:
 #### 1.[Usage of Git](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20of%20Git.docx)
 #### 2.[Usage of Docker](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20of%20Docker.docx)
