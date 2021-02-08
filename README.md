@@ -32,5 +32,5 @@
 
 ### [Merge](https://github.com/gn32/GitCollab1/blob/main/Documents/Merge.docx)
 
-
+### [Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
 
