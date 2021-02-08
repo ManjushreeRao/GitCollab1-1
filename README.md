@@ -36,7 +36,7 @@
 ### Change log
 #### [ChangeLog](https://github.com/gn32/GitCollab1/blob/main/Change_Log.docx)
 ### *Videos* 
-### The following videos have been used as a reference to understand the working of Github
+#### The following videos have been used as a reference to understand the working of Github
 #### [Qucikscrum Guide](https://guide.quickscrum.com/git-guide/)
 #### [GitHub Desktop client](https://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html)
 
