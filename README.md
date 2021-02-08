@@ -7,9 +7,9 @@
 ## Team Member2 :handshake: Manjushree Madhava Rao Ramachandrahosur (*Mandy*)
 ![alt text](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
 ## Index ##
-## Introduction to GIT Flow
+### Introduction to GIT Flow
 ### [GitFlow](https://github.com/gn32/GitCollab1/blob/main/Documents/Git%20Flow.docx)
-## Git Definitions:
+### Git Definitions:
 ### 1.[Checkout](https://github.com/gn32/GitCollab1/blob/main/Documents/Checkout.docx)
 ### 2.[Repository](https://github.com/gn32/GitCollab1/blob/main/Documents/Repository.docx)
 ### 3.[Push](https://github.com/gn32/GitCollab1/blob/main/Documents/Push.docx)
@@ -22,16 +22,16 @@
 ### 10.[Master Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Master%20Branch.docx)
 ### 11.[Merge](https://github.com/gn32/GitCollab1/blob/main/Documents/Merge.docx)
 ### 12. [Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
-## Usage:
+### Usage:
 ### 1.[Usage of Git](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20of%20Git.docx)
 ### 2.[Usage of Docker](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20of%20Docker.docx)
 ### 3.[Usage Of Automated Testing](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20Of%20Automated%20Testing.docx)
 ### 4.[Usage of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20Of%20Continuous%20integration.docx)
-## How to Add Collaborator to your GitHub Repo
+### How to Add Collaborator to your GitHub Repo
 ### [Adding a Collaborator](https://github.com/gn32/GitCollab1/blob/main/Adding%20a%20collaborator%20to%20a%20GitHub%20Repository.docx)
-## How is Forking different from Cloning
+### How is Forking different from Cloning
 ### [Forking Vs Cloning](https://github.com/gn32/GitCollab1/blob/main/Forking%20Vs%20Cloning.docx)
-## How to Resolve Merge Conflicts in GitHub
+### How to Resolve Merge Conflicts in GitHub
 ### [Resolve Merge Conflicts](https://github.com/gn32/GitCollab1/blob/main/Resolving%20Merge%20conflicts%20in%20GitHub.docx)
-## Change-log
+### Change-log
 ### [Change-Log](https://github.com/gn32/GitCollab1/blob/main/Change_Log.docx)
