@@ -23,11 +23,11 @@
 #### 11.[Merge](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Merge.docx)
 #### 12.[Branch](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Branch.docx)
 ### Productivity:
-#### The following topics highlight their usage in increasing the productivity and competitiveness of a comapany
-#### 1.[Use of Git](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20of%20Git.docx)
-#### 2.[Use of Docker](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20of%20Docker.docx)
-#### 3.[Use Of Automated Testing](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20Of%20Automated%20Testing.docx)
-#### 4.[Use of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20Of%20Continuous%20integration.docx)
+#### The following topics highlight their usage in increasing the productivity and competitiveness of a company
+#### 1.[Use of Git](https://github.com/gn32/GitCollab1/blob/main/Productivity/Usage%20of%20Git.docx)
+#### 2.[Use of Docker](https://github.com/gn32/GitCollab1/blob/main/Productivity/Usage%20of%20Docker.docx)
+#### 3.[Use Of Automated Testing](https://github.com/gn32/GitCollab1/blob/main/Productivity/Usage%20Of%20Automated%20Testing.docx)
+#### 4.[Use of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Productivity/Usage%20Of%20Continuous%20integration.docx)
 ### How to Add Collaborator to your GitHub Repo
 #### [Adding a Collaborator](https://github.com/gn32/GitCollab1/blob/main/Adding%20a%20collaborator%20to%20a%20GitHub%20Repository.docx)
 ### How is Forking different from Cloning
