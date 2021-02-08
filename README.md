@@ -10,16 +10,16 @@
 ### Introduction to GIT Flow
 ### [GitFlow](https://github.com/gn32/GitCollab1/blob/main/Documents/Git%20Flow.docx)
 ### Git Definitions :
-#### 1.[Checkout](https://github.com/gn32/GitCollab1/blob/main/Documents/Checkout.docx)
+#### 1.[Checkout](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Checkout.docx)
 #### 2.[Repository](https://github.com/gn32/GitCollab1/blob/main/Documents/Repository.docx)
-#### 3.[Push](https://github.com/gn32/GitCollab1/blob/main/Documents/Push.docx)
+#### 3.[Push](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Push.docx)
 #### 4.[Clone](https://github.com/gn32/GitCollab1/blob/main/Documents/Clone.docx)
-#### 5.[Pull](https://github.com1./gn32/GitCollab1/blob/main/Documents/Pull.docx)
+#### 5.[Pull](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Pull.docx)
 #### 6.[Fork](https://github.com/gn32/GitCollab1/blob/main/Documents/Fork.docx)
-#### 7.[Remote Add show remove](https://github.com/gn32/GitCollab1/blob/main/Documents/Remote%20Add%20show%20remove.docx)
+#### 7.[Remote Add show remove](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Remote%20Add%20show%20remove.docx)
 #### 8.[Commit](https://github.com/gn32/GitCollab1/blob/main/Documents/Commit.docx)
-#### 9.[Status](https://github.com/gn32/GitCollab1/blob/main/Documents/Status.docx)
-#### 10.[Master Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Master%20Branch.docx)
+#### 9.[Status](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Status.docx)
+#### 10.[Master Branch](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Master%20Branch.docx)
 #### 11.[Merge](https://github.com/gn32/GitCollab1/blob/main/Documents/Merge.docx)
 #### 12. [Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
 ### Usage:
