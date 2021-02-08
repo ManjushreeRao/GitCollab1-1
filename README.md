@@ -11,3 +11,24 @@
 ## Git Definitions:
 
 ### [Checkout](https://github.com/gn32/GitCollab1/blob/main/Documents/Checkout.docx)
+
+### [Repository](https://github.com/gn32/GitCollab1/blob/main/Documents/Repository.docx)
+
+### [Push](https://github.com/gn32/GitCollab1/blob/main/Documents/Push.docx)
+
+### [Clone](https://github.com/gn32/GitCollab1/blob/main/Documents/Clone.docx)
+
+### [Pull](https://github.com/gn32/GitCollab1/blob/main/Documents/Pull.docx)
+
+### [Fork](https://github.com/gn32/GitCollab1/blob/main/Documents/Fork.docx)
+
+### [Remote Add show remove](https://github.com/gn32/GitCollab1/blob/main/Documents/Remote%20Add%20show%20remove.docx)
+
+### [Commit](https://github.com/gn32/GitCollab1/blob/main/Documents/Commit.docx)
+
+### [Status](https://github.com/gn32/GitCollab1/blob/main/Documents/Status.docx)
+
+### [Master Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Master%20Branch.docx)
+
+
+
