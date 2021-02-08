@@ -10,18 +10,18 @@
 ### Introduction to GIT Flow
 ### [GitFlow](https://github.com/gn32/GitCollab1/blob/main/Git%20Flow.docx)
 ### Git Definitions :
-#### 1.[Checkout](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Checkout.docx)
-#### 2.[Repository](https://github.com/gn32/GitCollab1/blob/main/Documents/Repository.docx)
+#### 1.[Repository](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Repository.docx)
+#### 2.[Checkout](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Checkout.docx)
 #### 3.[Push](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Push.docx)
-#### 4.[Clone](https://github.com/gn32/GitCollab1/blob/main/Documents/Clone.docx)
+#### 4.[Clone](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Clone.docx)
 #### 5.[Pull](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Pull.docx)
-#### 6.[Fork](https://github.com/gn32/GitCollab1/blob/main/Documents/Fork.docx)
+#### 6.[Fork](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Fork.docx)
 #### 7.[Remote Add show remove](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Remote%20Add%20show%20remove.docx)
-#### 8.[Commit](https://github.com/gn32/GitCollab1/blob/main/Documents/Commit.docx)
+#### 8.[Commit](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Commit.docx)
 #### 9.[Status](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Status.docx)
 #### 10.[Master Branch](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Master%20Branch.docx)
-#### 11.[Merge](https://github.com/gn32/GitCollab1/blob/main/Documents/Merge.docx)
-#### 12.[Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
+#### 11.[Merge](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Merge.docx)
+#### 12.[Branch](https://github.com/gn32/GitCollab1/blob/main/Git%20Definitions/Branch.docx)
 ### Productivity:
 #### The following topics highlight their usage in increasing the productivity and competitiveness of a comapany
 #### 1.[Use of Git](https://github.com/gn32/GitCollab1/blob/main/Usage/Usage%20of%20Git.docx)
