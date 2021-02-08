@@ -7,44 +7,27 @@
 ## Team Member2 :handshake: Manjushree Madhava Rao Ramachandrahosur (*Mandy*)
 ![alt text](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
 ## Index ##
-## Intoduction to [GIT Flow](https://github.com/gn32/GitCollab1/blob/main/Documents/Git%20Flow.docx)
-
+## Introduction to GIT Flow
+### [GitFlow](https://github.com/gn32/GitCollab1/blob/main/Documents/Git%20Flow.docx)
 ## Git Definitions:
-
-### [Checkout](https://github.com/gn32/GitCollab1/blob/main/Documents/Checkout.docx)
-
-### [Repository](https://github.com/gn32/GitCollab1/blob/main/Documents/Repository.docx)
-
-### [Push](https://github.com/gn32/GitCollab1/blob/main/Documents/Push.docx)
-
-### [Clone](https://github.com/gn32/GitCollab1/blob/main/Documents/Clone.docx)
-
-### [Pull](https://github.com/gn32/GitCollab1/blob/main/Documents/Pull.docx)
-
-### [Fork](https://github.com/gn32/GitCollab1/blob/main/Documents/Fork.docx)
-
-### [Remote Add show remove](https://github.com/gn32/GitCollab1/blob/main/Documents/Remote%20Add%20show%20remove.docx)
-
-### [Commit](https://github.com/gn32/GitCollab1/blob/main/Documents/Commit.docx)
-
-### [Status](https://github.com/gn32/GitCollab1/blob/main/Documents/Status.docx)
-
-### [Master Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Master%20Branch.docx)
-
-### [Merge](https://github.com/gn32/GitCollab1/blob/main/Documents/Merge.docx)
-
-### [Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
-
+### 1.[Checkout](https://github.com/gn32/GitCollab1/blob/main/Documents/Checkout.docx)
+### 2.[Repository](https://github.com/gn32/GitCollab1/blob/main/Documents/Repository.docx)
+### 3.[Push](https://github.com/gn32/GitCollab1/blob/main/Documents/Push.docx)
+### 4.[Clone](https://github.com/gn32/GitCollab1/blob/main/Documents/Clone.docx)
+### 5.[Pull](https://github.com1./gn32/GitCollab1/blob/main/Documents/Pull.docx)
+### 6.[Fork](https://github.com/gn32/GitCollab1/blob/main/Documents/Fork.docx)
+### 7.[Remote Add show remove](https://github.com/gn32/GitCollab1/blob/main/Documents/Remote%20Add%20show%20remove.docx)
+### 8.[Commit](https://github.com/gn32/GitCollab1/blob/main/Documents/Commit.docx)
+### 9.[Status](https://github.com/gn32/GitCollab1/blob/main/Documents/Status.docx)
+### 10.[Master Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Master%20Branch.docx)
+### 11.[Merge](https://github.com/gn32/GitCollab1/blob/main/Documents/Merge.docx)
+### 12. [Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Branch.docx)
 ## Usage:
-
-### [Usage of Git](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20of%20Git.docx)
-
-### [Usage of Docker](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20of%20Docker.docx)
-
-### [Usage Of Automated Testing](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Automated%20Testing.docx)
-
-### [Usage of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Continuous%20integration.docx)
-
-
-## Change-log:
+### 1.[Usage of Git](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20of%20Git.docx)
+### 2.[Usage of Docker](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20of%20Docker.docx)
+### 3.[Usage Of Automated Testing](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Automated%20Testing.docx)
+### 4.[Usage of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Continuous%20integration.docx)
+## How to Add Collaborator to your GitHub Repo
+### [Adding a Collaborator](https://github.com/gn32/GitCollab1/blob/branch_gn_3/Resolving%20Merge%20conflicts%20in%20GitHub.docx)
+## Change-log
 ### [Change-Log](https://github.com/gn32/GitCollab1/blob/main/Change_Log.docx)
