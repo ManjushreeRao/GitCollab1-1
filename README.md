@@ -41,4 +41,4 @@
 #### [GitHub Desktop client](https://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html)
 ### *Webex Team meetings*
 #### We conducted several webex sessions to plan, discuss and implement the commits in GitCollab1
-#### [Webex team Meeting[(https://github.com/gn32/GitCollab1/blob/branch_gn_3/Git%20Webex%20meeting.png)
+#### [Webex team Meeting](https://github.com/gn32/GitCollab1/blob/branch_gn_3/Git%20Webex%20meeting.png)
