@@ -11,3 +11,4 @@
 ## Git Definitions:
 
 ### [Checkout](https://github.com/gn32/GitCollab1/blob/main/Documents/Checkout.docx)
+### [Push](https://github.com/gn32/GitCollab1/blob/main/Documents/Push.docx)
