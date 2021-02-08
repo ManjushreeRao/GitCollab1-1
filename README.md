@@ -46,5 +46,5 @@
 ### [Usage of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Continuous%20integration.docx)
 
 
-
-## [Change-Log](https://github.com/gn32/GitCollab1/blob/main/Change_Log.docx)
+## Change-log:
+### [Change-Log](https://github.com/gn32/GitCollab1/blob/main/Change_Log.docx)
