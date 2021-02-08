@@ -19,3 +19,5 @@
 ### [Clone](https://github.com/gn32/GitCollab1/blob/main/Documents/Clone.docx)
 
 ### [Pull](https://github.com/gn32/GitCollab1/blob/main/Documents/Pull.docx)
+
+### [Fork](https://github.com/gn32/GitCollab1/blob/main/Documents/Fork.docx)
