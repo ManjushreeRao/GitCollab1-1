@@ -28,5 +28,7 @@
 
 ### [Status](https://github.com/gn32/GitCollab1/blob/main/Documents/Status.docx)
 
+### [Master Branch](https://github.com/gn32/GitCollab1/blob/main/Documents/Master%20Branch.docx)
+
 
 
