@@ -29,5 +29,7 @@
 ### 4.[Usage of Continuous Integration](https://github.com/gn32/GitCollab1/blob/main/Documents/Usage%20Of%20Continuous%20integration.docx)
 ## How to Add Collaborator to your GitHub Repo
 ### [Adding a Collaborator](https://github.com/gn32/GitCollab1/blob/branch_gn_3/Resolving%20Merge%20conflicts%20in%20GitHub.docx)
+## How is Forking different from Cloning
+### [Forking Vs Cloning](https://github.com/gn32/GitCollab1/blob/main/Forking%20Vs%20Cloning.docx)
 ## Change-log
 ### [Change-Log](https://github.com/gn32/GitCollab1/blob/main/Change_Log.docx)
